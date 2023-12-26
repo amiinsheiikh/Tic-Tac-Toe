@@ -1,0 +1,11 @@
+Hey there. 
+
+This is a game of Tic Tac Toe which is implemented using python 3 code. 
+In order to play the game, simply execute/run the code and follow the instructions as prompted. 
+We will be visualizing the tic tac toe board as 9 fillable positions from 1 to 9 blocks in the board.
+Pick the position you want to insert X and wait for the computer to play its turn. 
+At a certain point in the game, if any one player has 3 X's or O's in a line i.e. horizontal, vertical, or diagonal a winner will be returned.
+If all the position are filled in the board, it will result in a tie. 
+There are inline commenets in the code which you can refer to to get a better understanding of the fucntioning of the code. 
+
+Thank You for reading the instruction.
